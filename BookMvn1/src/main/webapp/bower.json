@@ -1,0 +1,21 @@
+{
+	"name": "bookmanv1",
+	"version": "0.0.0",
+	"authors": [
+		"degang"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"bootstrap": "3.3.7",
+		"jquery-validation":"1.17.0",
+		"jquery-validation-bootstrap-tooltip": "0.10.2",
+		"bootstrap-datepicker":"1.6"
+	}
+}
